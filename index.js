@@ -5,7 +5,7 @@ const myQuestions = [
 	{
     number: 1,
       
-    theQuestion: `When was Puerto Rico discovered?`,
+    theQuestion: `Where is Puerto Rico located?`,
       
     choice1:`South of Africa`,
     choice2:`Carribbean Sea & Atlantic Ocean`,
